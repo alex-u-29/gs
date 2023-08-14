@@ -43937,7 +43937,7 @@
             ]
         ]
     ],
-    "projection": {
+    "projections": {
             "type": "geoAzimuthalEqualArea",
             "rotate": [
                 -31.463253327445436,
